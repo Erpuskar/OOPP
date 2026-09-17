@@ -6,8 +6,8 @@
       "type": "lldb",
       "request": "launch",
       "args": [],
-      "cwd": "/Users/puskarmac/Desktop/OOPs143/UNIT2/sep_14_26",
-      "program": "/Users/puskarmac/Desktop/OOPs143/UNIT2/sep_14_26/build/Debug/outDebug"
+      "cwd": "/Users/puskarmac/Desktop/OOPs143/UNIT3",
+      "program": "/Users/puskarmac/Desktop/OOPs143/UNIT3/build/Debug/outDebug"
     }
   ]
 }
