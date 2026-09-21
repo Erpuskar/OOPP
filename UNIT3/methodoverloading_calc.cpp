@@ -14,6 +14,42 @@ class calculator{
             return a+b;
         }
     };
+    class sub{
+        public:
+        int sub(int a,int b){
+            return a-b;
+        }
+        int sub(int a,int b,int c){
+            return a-b-c;
+        }
+        double sub(double a,double b){
+            return a-b;
+        }
+    };
+    class mul{
+        public:
+        int mul(int a,int b){
+            return a*b;
+        }
+        int mul(int a,int b,int c){
+            return a*b*c;
+        }
+        double mul(double a,double b){
+            return a*b;
+        }
+    };
+    class div{
+        public:
+        int div(int a,int b){
+            return a/b;
+        }
+        int div(int a,int b,int c){
+            return a/b/c;
+        }
+        double div(double a,double b){
+            return a/b;
+        }
+    };  
 };
 int main(){
     calculator::add obj;
